@@ -30,7 +30,7 @@ There is also a notebook available here to showcsae all my work related to my th
 requirements.txt to install all required libraries
 
 ## Results
-The main findings of the code can be found at the post available 
+The main findings of the code can be found at the post available [here] (https://medium.com/@althorman/what-is-the-overall-diversity-profile-of-the-organization-f4eaf1280492)
 
 ## Licensing, Authors, Acknowledgements
 You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set?resource=download). Otherwise, feel free to use the code here as you would like!
