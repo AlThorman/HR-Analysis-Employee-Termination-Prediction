@@ -15,8 +15,11 @@ This code runs with Python version 3.* and requires some libraries, to install t
 
 ## Project Motivation
 Motivation behind this project includes answer to following questions:
+
 • What is the overall diversity profile of the organization?
-• What are our best recruiting sources if we want to ensure a diverse organization?
+
+• What are the best recruiting sources if we want to ensure a diverse organization?
+
 • Are there areas of the company where pay is not equitable?
 
 ## File Description
