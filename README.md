@@ -2,10 +2,10 @@
 
 ## Table of Contents
 - [Installation](#Installation)
-- [Project Motivation](#Project Motivation)
-- [File Description](#File Description)
+- [Project Motivation](#Project-Motivation)
+- [File Description](#File-Description)
 - [Results](#Results)
-- [Licensing, Authors, Acknowledgements](#Licensing, Authors, Acknowledgements)
+- [Licensing, Authors, Acknowledgements](#Licensing,-Authors,-Acknowledgements)
 
 ## Installation
 This code runs with Python version 3.* and requires some libraries, to install theses libraries you will need to execute:
