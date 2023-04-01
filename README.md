@@ -20,9 +20,11 @@ Motivation behind this project includes answer to following questions:
 • Are there areas of the company where pay is not equitable?
 
 ## File Description
-• HRDataset_v14.csv contains lastest edition HR Dataset by Dr. Dr. Carla Patalano
-• There is also a notebook available here to showcsae all my work related to my three questions.
-• requirements.txt to install all required libraries
+HRDataset_v14.csv contains lastest edition HR Dataset by Dr. Dr. Carla Patalano
+
+There is also a notebook available here to showcsae all my work related to my three questions.
+
+requirements.txt to install all required libraries
 
 ## Results
 The main findings of the code can be found at the post available 
